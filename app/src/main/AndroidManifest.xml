@@ -23,6 +23,7 @@
         </activity>
 
         <activity android:name=".api.CanvasDrawBitmapActivity" android:exported="true"/>
+        <activity android:name=".api.BitmapBufferActivity" android:exported="true"/>
     </application>
 
 </manifest>
